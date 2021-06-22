@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there 👋.<br>
+  I'm Eduardo Nascimento.
+</h1>
 
-<!--
-**eduardosgn/eduardosgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h2> Sobre: </h2>
 
-Here are some ideas to get you started:
+- [x] Formado em Design Gráfico pela *UniCUritiba*.
+- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **front-end**.
+- [x] Busco trocar o termo *dificuldade* por *desafio*.
+- [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Predileção: </h2>
+
+- [x] Café.
+- [x] Networking e comunidade.
+- [x] Pesquisa.
+- [x] Programação.
+- [x] Front-end.
+- [x] Games.
+- [x] Team work.
+
+<h2>Tecnologias: </h2>
+
+#Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
+
+- [x] **Foco**: *HTML5, CSS3, Javascript, ReactJS, Angular, SASS.*.
+- [x] **Interesse**: *NodeJS, VueJS, Angular, Web Service, Web pack, NextJS, React Native*.
+- [x] **Idiomas**: *Português(nativo), inglês(avançado) e alemão(básico)*.
+- [x] **Áreas**: *Startup, Inovação, Pesquisa, Front-end, Develop, Atividade física, música, games*.
+
+<!-- <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>-->
+
+<h2>Networking: </h2>
+
+- [x] [Linkedin](https://www.linkedin.com/in/edusgn/)
+- [x] [GitHub](https://github.com/eduardosgn)
+- [x] [Behance](https://www.behance.net/eduardosgndfc0)
+- [x] [Instagram](https://www.instagram.com/___edusgn/)
+
+
+<h2 align="center">Stats:</h2>
+
+<p align="center" href="https://github.com/eduardosgn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosgn&count_private=true&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosgn&theme=radical&layout=compact" />
+</p>
