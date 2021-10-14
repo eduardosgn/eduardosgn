@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi there 👋.<br>
-  I'm Eduardo Nascimento.
+  Olá! 👋.<br>
+  Obrigado por visitar o meu Github..
 </h1>
 
  <h2> Sobre: </h2>
