@@ -21,12 +21,12 @@
 - [x] Games.
 - [x] Team work.
 
-<h2>Tecnologias: </h2>
+<h2>Tecnologias:</h2>
 
 #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
-- [x] **Foco**: *HTML5, CSS3, Javascript, ReactJS, Angular, SASS.*.
-- [x] **Interesse**: *NodeJS, VueJS, Angular, Web Service, Web pack, NextJS, React Native*.
+- [x] **Foco**: *HTML5, CSS3, Javascript, React (NextJS), Vue, Angular, SASS.*.
+- [x] **Interesse**: *NodeJS, Web Service, Web pack, React Native*.
 - [x] **Idiomas**: *Português(nativo), inglês(avançado) e alemão(básico)*.
 - [x] **Áreas**: *Startup, Inovação, Pesquisa, Front-end, Develop, Atividade física, música, games*.
 
