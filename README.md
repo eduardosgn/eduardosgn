@@ -7,27 +7,27 @@
  <h2> Sobre: </h2>
 
 - [x] Formado em Design Gráfico pela *UniCUritiba*.
-- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **front-end**.
+- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **front** e o **back-end**.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
 
 <h2> Predileção: </h2>
 
 - [x] Café.
-- [x] Networking e comunidade.
 - [x] Pesquisa.
 - [x] Programação.
 - [x] Front-end.
+- [x] Back-end. 
 - [x] Games.
-- [x] Team work.
+- [x] Skating.
 
 <h2>Tecnologias:</h2>
 
 #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
-- [x] **Foco**: *HTML5, CSS3, Javascript, React (NextJS), Vue, Angular, SASS.*.
-- [x] **Interesse**: *NodeJS, Web Service, Web pack, React Native*.
-- [x] **Idiomas**: *Português(nativo), inglês(avançado) e alemão(básico)*.
+- [x] **Foco**: *HTML5, CSS3, Javascript, React (NextJS), Vue, Angular, Java, Spring Boot, REST APIs*.
+- [x] **Interesse**: *NodeJS, Web Service, Web pack, React Native, Kotlin*.
+- [x] **Idiomas**: *Português(nativo), inglês(B2).*.
 - [x] **Áreas**: *Startup, Inovação, Pesquisa, Front-end, Develop, Atividade física, música, games*.
 
 <!-- <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></p>
